@@ -1,0 +1,21 @@
+todo item object
+    -title
+    -type/category
+    -one-off/regular
+    -description
+    -dueDate
+    -priority
+    -location
+    -checklist
+    -completed
+
+project/todo list
+    -default project
+
+User interface
+    -view all projects
+    -view all todos
+    -expand
+    -delete
+    -view active/completed projects
+    -export/print list?
